@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 void quicksort(){
-    //// aslfnaslfkasnfnaslnflalsdknfsnlfknaslfnaslkflkkndsfladlfnsdlfnaslkfasdlk
+    cout<<"sakfajflakflaskfaslf\n";
+
 }
 int main(){
 cout <<"Hello World";
