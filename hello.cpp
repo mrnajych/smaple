@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
-
+void mergesorrt (){
+    //
+}
 void bubblesort(){
     cout<<"askfas";
 void quicksort(){
