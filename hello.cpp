@@ -1,7 +1,11 @@
 #include<iostream>
 using namespace std;
+
 void bubblesort(){
     cout<<"askfas";
+void quicksort(){
+    cout<<"sakfajflakflaskfaslf\n";
+
 }
 int main(){
 cout <<"Hello World";
