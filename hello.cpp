@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
+void quicksort(){
+    //// aslfnaslfkasnfnaslnflalsdknfsnlfknaslfnaslkflkkndsfladlfnsdlfnaslkfasdlk
+}
 int main(){
 cout <<"Hello World";
 cout <<"\n india is the best"<<endl;
