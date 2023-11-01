@@ -9,6 +9,9 @@ void quicksort(){
     cout<<"sakfajflakflaskfaslf\n";
 
 }
+void insertionsort(){
+    //
+}
 int main(){
 cout <<"Hello World";
 cout <<"\n india is the best"<<endl;
@@ -17,4 +20,3 @@ for(int i=0;i<5;i++){
 }
 return 0;
 }
-timepass;
